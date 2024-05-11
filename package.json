@@ -1,4 +1,5 @@
 {
+  "name": "purich",
   "main": "index.js",
   "devDependencies": {
     "vitepress": "^1.1.4"
