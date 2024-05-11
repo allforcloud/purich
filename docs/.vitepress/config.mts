@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "purich---",
   description: "Pic rich",
-  base: "/",
+  base: "/purich",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
